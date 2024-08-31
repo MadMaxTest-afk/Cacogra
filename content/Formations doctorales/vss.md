@@ -6,6 +6,8 @@ tags:
   - CGT
 ---
 
+[[Zotero]]
+
 ## Objectifs du cours : 
 
  **Principes** : 
