@@ -6,7 +6,8 @@ tags:
   - CGT
 ---
 
-[[Zotero]]
+[[Cours/zotero.md]]
+
 
 ## Objectifs du cours : 
 
